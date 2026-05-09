@@ -2,7 +2,7 @@
 
 Hybrid A* path planning
 
-author: Zheng Zh (@Zhengzh)
+Editted code for working path planning , Obtained from Zheng Zh
 
 """
 
